@@ -46,7 +46,10 @@ Insider-Jobs is a full-stack job portal where applicants can browse and apply fo
 
 ## Screenshots
 
-
+![Image](https://github.com/user-attachments/assets/0dc9b625-14cb-4ec9-9ff1-1a700db26ec1)
+![Image](https://github.com/user-attachments/assets/42d52024-b5a6-4dd2-a873-0e0b57dbadf0)
+![Image](https://github.com/user-attachments/assets/c1733d79-991b-4b28-a2c3-d9b8babe6309)
+![Image](https://github.com/user-attachments/assets/52446233-47e6-4e0a-9bb0-6d266e36dc04)
 
 
 - **Mohammad Hafeez**  
